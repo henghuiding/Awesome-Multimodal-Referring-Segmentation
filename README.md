@@ -70,6 +70,8 @@
 5. [Generalized Referring Expression x (GREx)](#5-generalized-referring-expression-x-grex)
 6. [Application](#6-application)
 
+## 1. Referring Expression Segmentation (RES)
+
 | Title                                                        | Source                                                       | Code / Homepage                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **[UFO]** [UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface](http://arxiv.org/abs/2503.01342) | <img src="https://img.shields.io/badge/arXiv%202025-b22222" alt="arXiv 2025"> | [![Code](https://img.shields.io/github/stars/nnnth/UFO.svg?style=social&label=Code)](https://github.com/nnnth/UFO) |
