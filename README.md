@@ -496,7 +496,7 @@
 @article{ding2025multimodal,
   title={Multimodal Referring Segmentation: A Survey},
   author={Ding, Henghui and Tang, Song and He, Shuting and Liu, Chang and Wu, Zuxuan and Jiang, Yu-Gang},
-  journal={arXiv preprint arXiv:25},
+  journal={arXiv preprint arXiv:2508.00265},
   year={2025}
 }
 ```
