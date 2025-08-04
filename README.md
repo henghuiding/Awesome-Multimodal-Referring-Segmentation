@@ -23,7 +23,7 @@
 
 
   <p align="center">
-    <a href="https://henghuiding.com/">
+    <a href="https://arxiv.org/abs/2508.00265">
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&' alt='arXiv PDF'>
     </a>
   </p>
