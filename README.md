@@ -65,7 +65,7 @@
 
 1. [Referring Expression Segmentation (RES)](#1-referring-expression-segmentation-res)
 2. [Referring Video-Object Segmentation (RVOS)](#2-referring-video-object-segmentation-rvos)
-3. [Referring Audio-Visual Segmentation (RAVS)](#3-audio-visual-segmentation-avs)
+3. [Referring Audio-Visual Segmentation (RAVS)](#3-referring-audio-visual-segmentation-ravs)
 4. [3D Referring Expression Segmentation (3D-RES)](#4-3d-referring-expression-segmentation-3d-res)
 5. [Generalized Referring Expression x (GREx)](#5-generalized-referring-expression-x-grex)
 6. [Application](#6-application)
@@ -273,6 +273,7 @@
 ## 2. Referring Video-Object Segmentation (RVOS)
 | Title                                                        | Source                                                       | Code / Homepage                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[MeViSv2]** [MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation](https://ieeexplore.ieee.org/document/9711171/) | <img src="https://img.shields.io/badge/TPAMI%202025-BC8F8F" alt="TPAMI 2025"> | [![Code](https://img.shields.io/github/stars/henghuiding/MeViS.svg?style=social&label=Code)](https://github.com/henghuiding/MeViS) |
 | **[SAMA]** [SAMA: Towards Multi-Turn Referential Grounded Video Chat with Large Language Models](http://arxiv.org/abs/2505.18812) | <img src="https://img.shields.io/badge/arXiv%202025-b22222" alt="arXiv 2025"> |                                                              |
 | **[VEGGIE]** [VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation](http://arxiv.org/abs/2503.14350) | <img src="https://img.shields.io/badge/arXiv%202025-b22222" alt="arXiv 2025"> | [![Code](https://img.shields.io/github/stars/Yui010206/VEGGIE-VidEdit.svg?style=social&label=Code)](https://github.com/Yui010206/VEGGIE-VidEdit/) |
 | **[Sa2VA]** [Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos](http://arxiv.org/abs/2501.04001) | <img src="https://img.shields.io/badge/arXiv%202025-b22222" alt="arXiv 2025"> | [![Code](https://img.shields.io/github/stars/magic-research/Sa2VA.svg?style=social&label=Code)](https://github.com/magic-research/Sa2VA) |
@@ -356,10 +357,11 @@
 | **[A2D]** [Actor and Action Video Segmentation from a Sentence](https://ieeexplore.ieee.org/document/8578722/) | <img src="https://img.shields.io/badge/CVPR%202018-8A2BE2" alt="CVPR 2018"> | [Homepage](https://kgavrilyuk.github.io/publication/actor_action/) |
 | **[Refer-DAVIS]** [Video Object Segmentation with Language Referring Expressions](https://link.springer.com/10.1007/978-3-030-20870-7_8) | <img src="https://img.shields.io/badge/ACCV%202018-FFCCCC" alt="ACCV 2018"> |                                                              |
 
-## 3. Audio-Visual Segmentation (AVS)
+## 3. Referring Audio-Visual Segmentation (RAVS)
 
 | Title                                                        | Source                                                       | Code / Homepage                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[OmniAVS]** [Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation](https://arxiv.org/abs/2507.22886) | <img src="https://img.shields.io/badge/ICCV%202025-8A2BE2" alt="ICCV 2025"> | [![Code](https://img.shields.io/github/stars/FudanCVL/OmniAVS.svg?style=social&label=Code)](https://github.com/FudanCVL/OmniAVS) |
 | **[SAM2-LOVE]** [SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_SAM2-LOVE_Segment_Anything_Model_2_in_Language-aided_Audio-Visual_Scenes_CVPR_2025_paper.pdf) | <img src="https://img.shields.io/badge/CVPR%202025-8A2BE2" alt="CVPR 2025"> | [![Code](https://img.shields.io/github/stars/VoyageWang/SAM2LOVE.svg?style=social&label=Code)](https://github.com/VoyageWang/SAM2LOVE) |
 | **[AVS-Mamba]** [AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation](http://arxiv.org/abs/2501.07810) | <img src="https://img.shields.io/badge/arxiv%202025-b22222" alt="arxiv 2025"> | [![Code](https://img.shields.io/github/stars/SitongGong/AVS-Mamba.svg?style=social&label=Code)](https://github.com/SitongGong/AVS-Mamba) |
 | **[Dolphin]** [Aligned Better, Listen Better for Audio-Visual Large Language Models](https://arxiv.org/abs/2504.02061) | <img src="https://img.shields.io/badge/ICLR%202025-8A2BE2" alt="ICLR 2025"> |                                                              |
@@ -419,6 +421,7 @@
 
 | Title                                                        | Source                                                       | Code / Homepage                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[ReferSplat]** [ReferSplat: Referring Segmentation in 3D Gaussian Splatting](https://icml.cc/virtual/2025/poster/43877) | <img src="https://img.shields.io/badge/ICML%202025-FF7F50" alt="ICML 2025"> | [![Code](https://img.shields.io/github/stars/heshuting555/ReferSplat.svg?style=social&label=Code)](https://github.com/heshuting555/ReferSplat) |
 | **[IPDN]** [IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation](http://arxiv.org/abs/2501.04995) | <img src="https://img.shields.io/badge/AAAI%202025-c71585" alt="AAAI 2025"> | [![Code](https://img.shields.io/github/stars/80chen86/IPDN.svg?style=social&label=Code)](https://github.com/80chen86/IPDN) |
 | **[MEN]** [Weakly-Supervised 3D Referring Expression Segmentation](https://openreview.net/pdf?id=cSAAGL0cn0) | <img src="https://img.shields.io/badge/ICLR%202025-8A2BE2" alt="ICLR 2025"> |                                                              |
 | **[MCLN]** [Multi-branch Collaborative Learning Network for 3D Visual Grounding](https://link.springer.com/10.1007/978-3-031-72952-2_22) | <img src="https://img.shields.io/badge/ECCV%202024-1e90ff" alt="ECCV 2024"> | [![Code](https://img.shields.io/github/stars/qzp2018/MCLN.svg?style=social&label=Code)](https://github.com/qzp2018/MCLN) |
@@ -426,7 +429,6 @@
 | **[MORE3D]** [Multimodal 3D Reasoning Segmentation with Complex Scenes](http://arxiv.org/abs/2411.13927) | <img src="https://img.shields.io/badge/arXiv%202025-b22222" alt="arXiv 2025"> |                                                              |
 | **[MLLM-For3D]** [MLLM-For3D: Adapting Multimodal Large Language Model for 3D Reasoning Segmentation](http://arxiv.org/abs/2503.18135) | <img src="https://img.shields.io/badge/arXiv%202025-b22222" alt="arXiv 2025"> |                                                              |
 | **[3DResT]** [3DResT: A Strong Baseline for Semi-Supervised 3D Referring Expression Segmentation](http://arxiv.org/abs/2504.12599) | <img src="https://img.shields.io/badge/arXiv%202025-b22222" alt="arXiv 2025"> |                                                              |
-| **[ReferSplat]** [ReferSplat: Referring Segmentation in 3D Gaussian Splatting](https://icml.cc/virtual/2025/poster/43877) | <img src="https://img.shields.io/badge/ICML%202025-FF7F50" alt="ICML 2025"> | [![Code](https://img.shields.io/github/stars/heshuting555/ReferSplat.svg?style=social&label=Code)](https://github.com/heshuting555/ReferSplat) |
 | **[ConcreteNet]** [Four Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding](http://arxiv.org/abs/2309.04561) | <img src="https://img.shields.io/badge/arXiv%202024-b22222" alt="arXiv 2024"> | [Homepage](https://ouenal.github.io/concretenet/)            |
 | **[RG-SAN]** [RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation](http://arxiv.org/abs/2412.02402) | <img src="https://img.shields.io/badge/arXiv%202024-b22222" alt="arXiv 2024"> | [![Code](https://img.shields.io/github/stars/sosppxo/RG-SAN.svg?style=social&label=Code)](https://github.com/sosppxo/RG-SAN) |
 | **[X-RefSeg3D]** [X-RefSeg3D: Enhancing Referring 3D Instance Segmentation via Structured Cross-Modal Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/28254) | <img src="https://img.shields.io/badge/AAAI%202024-c71585" alt="AAAI 2024"> | [![Code](https://img.shields.io/github/stars/qzp2018/X-RefSeg3D.svg?style=social&label=Code)](https://github.com/qzp2018/X-RefSeg3D) |
