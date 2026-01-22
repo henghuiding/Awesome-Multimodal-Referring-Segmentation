@@ -314,6 +314,7 @@
 
 | Title                                                        | Source                                                       | Code / Homepage                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[CroBIM-V]**[CroBIM-V: Memory-Quality Controlled Remote Sensing Referring Video Object Segmentation](https://arxiv.org/abs/2601.12076) | <img src="https://img.shields.io/badge/arXiv%202026-b22222" alt="arXiv 2026"> |                                                              |
 | **[VideoLoom]**[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](https://arxiv.org/abs/2601.07290) | <img src="https://img.shields.io/badge/arXiv%202026-b22222" alt="arXiv 2026"> |                                                              |
 | **[CERES]**[Robust Egocentric Referring Video Object Segmentation via Dual-Modal Causal Intervention](https://arxiv.org/abs/2512.24323) | <img src="https://img.shields.io/badge/NeurIPS%202025-CD5C5C" alt="NeurIPS 2025"> |                                                              |
 | **[ReVSeg]**[ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning](https://arxiv.org/abs/2512.02835) | <img src="https://img.shields.io/badge/arXiv%202025-b22222" alt="arXiv 2025"> | [Homepage](https://clementine24.github.io/ReVSeg/)           |
