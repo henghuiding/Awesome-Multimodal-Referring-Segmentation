@@ -598,11 +598,11 @@
 > We would be honored if this work could assist you, and greatly appreciate it if you could consider starring and citing it:
 
 ```
-@article{ding2025multimodal,
+@article{ReferringSurvey,
   title={Multimodal Referring Segmentation: A Survey},
   author={Ding, Henghui and Tang, Song and He, Shuting and Liu, Chang and Wu, Zuxuan and Jiang, Yu-Gang},
-  journal={arXiv preprint arXiv:2508.00265},
-  year={2025}
+  journal={International Journal of Computer Vision (IJCV)},
+  year={2026}
 }
 ```
 
